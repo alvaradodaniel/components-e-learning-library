@@ -7,7 +7,7 @@
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   },
-  "version": "11.0.0",
+  "version": "12.0.1",
   "description": "This is test button made for a tutorial",
   "main": "dist/cjs/index.js",
   "files": [
